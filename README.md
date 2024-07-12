@@ -1,3 +1,7 @@
+Mi repositorio: https://github.com/AnaGarciaDelAlamo/calculadora-react.git
+
+Ejercicio práctico calculadora.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
